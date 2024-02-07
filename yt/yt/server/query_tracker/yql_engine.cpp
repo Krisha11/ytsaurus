@@ -29,6 +29,7 @@ using namespace NYqlClient::NProto;
 using namespace NYson;
 using namespace NConcurrency;
 
+
 ////////////////////////////////////////////////////////////////////////////////
 
 //! This macro may be used to extract std::optional<TYsonString> from protobuf message field of type string.
